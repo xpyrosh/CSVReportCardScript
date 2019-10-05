@@ -12,7 +12,6 @@ The first method would be to open the project in Eclipse; so long as you include
 
 I have also provided a test folder with my submission which includes an executable JAR file. You may replace the courses.csv, marks.csv, students.csv and tests.csv from the test folder with the new CSV's you'd like to test and simply double click the JAR to run it. Granted that you have the correct JDK installed a reportcard.txt should appear.
 
-(I'm unsure if this is against the rule against built folders because I assumed that meant .CLASS files.)
 
 # About:
 
