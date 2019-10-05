@@ -1,0 +1,36 @@
+Student Id: 1, name: Zoro
+Total Average:	 70.38%
+	Course: Biology, Teacher: Mr. Luffy
+	Final Grade:	89.20%
+
+	Course: History, Teacher: Mrs. Nami
+	Final Grade:	53.45%
+
+	Course: Math, Teacher: Mrs. Robin
+	Final Grade:	68.50%
+
+
+
+Student Id: 2, name: Sanji
+Total Average:	 58.85%
+	Course: Biology, Teacher: Mr. Luffy
+	Final Grade:	49.20%
+
+	Course: Math, Teacher: Mrs. Robin
+	Final Grade:	68.50%
+
+
+
+Student Id: 3, name: Ussop
+Total Average:	 71.50%
+	Course: Biology, Teacher: Mr. Luffy
+	Final Grade:	91.30%
+
+	Course: History, Teacher: Mrs. Nami
+	Final Grade:	54.45%
+
+	Course: Math, Teacher: Mrs. Robin
+	Final Grade:	68.75%
+
+
+
